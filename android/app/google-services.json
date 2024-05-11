@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459883551633",
+    "project_id": "escalate-10c34",
+    "storage_bucket": "escalate-10c34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459883551633:android:5a9969b50d4dc6ee03d830",
+        "android_client_info": {
+          "package_name": "com.example.esclate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459883551633-bga9i1r15amb97utihk35mrqfjtasvce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Igiim-G9HCOTrmxTR4Ev6ghcR0TIxlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459883551633-bga9i1r15amb97utihk35mrqfjtasvce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
